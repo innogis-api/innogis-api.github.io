@@ -1,1 +1,1 @@
-# innogis-api.github.io
+# delete user info guide
